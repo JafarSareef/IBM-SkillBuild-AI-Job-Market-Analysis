@@ -1,11 +1,13 @@
 # AI Job Market Analytics
 
-**IBM SkillBuild Project**
-**Author:** Jafar
-**Status:** ✅ Completed
+**IBM SkillBuild Project** 
+**Author:** Jafar 
+**Status:** ✅ Completed 
 
 ---
+## 🚀 Live Dashboard
 
+👉 [Open Streamlit Dashboard](https://ibm-skillbuild-ai-job-market-analysis.streamlit.app/)
 ## Project Overview
 
 This project analyses a real-world job listings dataset to explore the landscape of AI-related versus traditional job postings across the United Kingdom, United States, and India. The goal is to surface trends in job demand, salary distributions, and role categories through descriptive analysis and interactive dashboards.
