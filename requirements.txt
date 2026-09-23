@@ -1,0 +1,25 @@
+# AI Job Market Analytics – IBM SkillBuild Project
+
+# Core data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# EDA and visualisation
+matplotlib>=3.9.0
+seaborn>=0.12.0
+
+# Interactive visualisation
+plotly>=6.0.0
+
+# Dash dashboard
+dash>=4.0.0
+dash-bootstrap-components>=2.0.0
+
+# Streamlit dashboard
+streamlit>=1.40.0
+
+# Word document/report support
+python-docx>=1.1.0
+
+# Utility
+openpyxl>=3.1.0
