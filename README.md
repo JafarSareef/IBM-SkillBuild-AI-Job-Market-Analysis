@@ -27,6 +27,10 @@ This project analyses a real-world job listings dataset to explore the landscape
 | Date range | May 2023 – July 2026                    |
 | Currencies | GBP, USD, INR (not directly comparable) |
 
+### Dataset Source
+
+[Kaggle – AI Job Market 2026: Automation vs Traditional Roles](https://www.kaggle.com/datasets/mariaaqdas/ai-job-market-2026-automation-vs-traditional-role)
+
 ### Search Keywords Used in Data Collection
 
 | Keyword                 | Category    |
