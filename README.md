@@ -1,8 +1,8 @@
 # AI Job Market Analytics
 
-**IBM SkillBuild Project** 
-**Author:** Jafar 
-**Status:** ✅ Completed 
+**IBM SkillBuild Project**<br>
+**Author:** Jafar<br>
+**Status:** ✅ Completed
 
 ---
 ## 🚀 Live Dashboard
